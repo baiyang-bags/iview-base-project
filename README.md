@@ -24,5 +24,3 @@ npm run dev
 ```bush
 npm run build
 ```
-
-# iview-base-project
